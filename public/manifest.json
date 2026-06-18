@@ -1,0 +1,31 @@
+{
+  "name": "Môj Fraštak",
+  "short_name": "Fraštak",
+  "description": "Komunitný PWA portál mesta Hlohovec - aktuality, udalosti, zber odpadu, podnety a život v meste.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#7A263A",
+  "categories": ["news", "social", "utilities"],
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

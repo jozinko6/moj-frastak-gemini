@@ -1,0 +1,6 @@
+{
+  "name": "Môj Fraštak",
+  "description": "Čo sa deje v Hlohovci, na jednom mieste. Komunitný portál pre obyvateľov Hlohovca, Šulekova a okolia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
